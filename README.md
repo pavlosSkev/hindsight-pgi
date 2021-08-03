@@ -1,1 +1,1 @@
-# hindsight-pgi
+# Hindsight Policy Gradient Interpolation
